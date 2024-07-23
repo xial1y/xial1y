@@ -4,7 +4,7 @@ Data Science Novice
 <h2>👨‍💻 TripleTen Data Science Projects:</h2>
 
 - <b>Software Development Tool</b>
-  - [Car sales exploratory data analysis and visualizations Python](https://github.com/xial1y/SDTProject)
+  - [Car Sales Data Analysis and Visualizations in Python](https://github.com/xial1y/SDTProject)
     
 - <b>Supervised Machine Learning</b>
   - [Banking Churn Prediction with Machine Learning](https://github.com/xial1y/SupervisedML) 
