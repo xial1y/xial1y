@@ -7,7 +7,7 @@ Data Science Novice
   - [Practicing exploratory data analysis and visualizations Python](https://github.com/xial1y/SDTProject)
     
 - <b>Supervised Machine Learning</b>
-  - [Image Analysis Middleware](-) 
+  - [Banking Churn Prediction with Machine Learning](https://github.com/xial1y/SupervisedML) 
   
 - <b>Machine Learning for text / Natural Language Processing</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](-)
