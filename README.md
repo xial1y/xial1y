@@ -18,4 +18,6 @@ Data Science Novice
 
 
 <h2> 🤳 Connect with me:</h2>
+<b>email: xiallyhuang@gmail.com</b> <br> <b>
+<b>LinkedIn:</b> www.linkedin.com/in/xiaorong-huang
 
