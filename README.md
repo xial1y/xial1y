@@ -10,7 +10,7 @@ Data Science Novice
   - [Banking Churn Prediction with Machine Learning](https://github.com/xial1y/SupervisedML) 
   
 - <b>Machine Learning for text / Natural Language Processing</b>
-  - [Film Review Classification with Machine Learning]((https://github.com/xial1y/natural-language-processing))
+  - [Film Review Classification with Machine Learning](https://github.com/xial1y/natural-language-processing)
 
 - <b>Machine Learning for Computer Vision</b>
   - [Computer Vision for Customer Age Prediction](https://github.com/xial1y/ML-computer-vision)
