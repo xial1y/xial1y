@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sally! </h1>
 
-<p>I am a novice data scientist hoping to change the world just a bit with healthcare data analytics for better, more effecient, and holistic decision making to improve patient care. </p>
+<p>I am a novice data scientist aspiring to contribute a bit to healthcare improvement with data analytics for better, more effecient, and holistic decision making to improve patient care. </p>
 
 <h2>👨‍💻 TripleTen Data Science Projects:</h2>
 
