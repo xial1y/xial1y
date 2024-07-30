@@ -19,5 +19,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<b>LinkedIn:</b> www.linkedin.com/in/xiaorong-huang
+<b>LinkedIn:</b>  www.linkedin.com/in/xiaorong-huang
 
